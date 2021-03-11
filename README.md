@@ -8,7 +8,7 @@
 🛠 Tech Stack
 
  
-    🌐   HTML | CSS | JavaScript| Bootstrap | PHP | Wordpress| ReactJS
+    🌐   HTML | CSS | JavaScript| Bootstrap | Material UI| PHP | Wordpress| ReactJS
 
 🛠 To Learn
 
