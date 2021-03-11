@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 i am Julian 
 
-<!--
-**njulian18/njulian18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+I'm Shivam
 
-Here are some ideas to get you started:
+👨🏻•💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+    🎓   Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+    🌱   Learning about Cloud Tech, Systems Design.
+
+    ✍️   Pursuing Web Development as hobbies/side hustles.
+
+🛠 Tech Stack
+
+    💻   Python | Java | C++ | C | MySQL
+
+    🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+🛠 To Learn
+
+    🔧   AWS | Docker🐳 | Firebase | flask
