@@ -1,7 +1,5 @@
-### Hi there 👋 i am Julian 
+### Hi there 👋 I´m Julian 
 
-Hi there 👋
-I'm Shivam
 
 👨🏻•💻 About Me
 
@@ -16,5 +14,6 @@ I'm Shivam
 
     🔧   NodeJS | Ionic |  
     
-    ![Uploading d59b4e4305b607a8e7d749cdf5746a78.gif…]()
+   
 
+![plataforma-freelancer-1-1-p2dcmheqvxi9zxk6bjz9lswlgmx0fsmalr4j2hoong](https://user-images.githubusercontent.com/69222010/110726299-edb68880-81f7-11eb-8e42-1e3b304ef651.png)
