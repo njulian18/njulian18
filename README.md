@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Julian, from Argentina| Mza.
+### Hi there 👋 I´m Julian, from Argentina | Mza.
 
 www.jnweb.com.ar
 
